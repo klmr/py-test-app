@@ -1,0 +1,1 @@
+-e git+https://github.com/klmr/py-test-lib.git#egg=lib
